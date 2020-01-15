@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "D4H6S666ZK.co.seekster.ios.provider.staging",
-        "paths": ["/*"]
+        "paths": ["*"]
       }
     ]
   }
