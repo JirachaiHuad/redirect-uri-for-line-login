@@ -1,0 +1,29 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "D4H6S666ZK.co.seekster.ios.seeker.production",
+        "paths": [
+          "/requests*",
+          "/conversation/*",
+          "/conversations/*",
+          "/inquiries/*",
+          "/services/*",
+          "/messages"
+        ]
+      },
+      {
+        "appID": "D4H6S666ZK.co.seekster.ios.seeker.staging",
+        "paths": [
+          "/requests*",
+          "/conversation/*",
+          "/conversations/*",
+          "/inquiries/*",
+          "/services/*",
+          "/messages"
+        ]
+      }
+    ]
+  }
+}
