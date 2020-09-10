@@ -3,8 +3,8 @@
     "apps": [],
     "details": [
       {
-        "appID": "D4H6S666ZK.co.seekster.ios.provider.staging",
-        "paths": ["/sign_in*", "*"]
+        "appID": "D4H6S666ZK.io.workforce.partner.staging",
+        "paths": ["*"]
       }
     ]
   }
